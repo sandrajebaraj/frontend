@@ -27,4 +27,32 @@ This page is build by using HTML and CSS. Here we using some of the CSS higlight
 
 ![image](https://user-images.githubusercontent.com/88303346/128384731-371bc3f0-2995-4eb7-8bc6-bace1d816096.png)
 
-This page is about their informations like travel experience and some of thier social websites.
+This page is about their informations like travel experience and some of thier features.
+
+**3>BOOKING PAGE:**
+
+![image](https://user-images.githubusercontent.com/88303346/128386256-cef09390-0aeb-4631-bc0f-e9ef74840f83.png)
+
+This page is about Booking.
+
+**4>REGISTRATION PAGE:**
+
+![image](https://user-images.githubusercontent.com/88303346/128386829-d801588e-038a-4f7b-b07c-fdbc25e6b4dc.png)
+
+This page is about Booking Details.
+
+**5>CONTACT US PAGE:**
+
+![image](https://user-images.githubusercontent.com/88303346/128387162-6bb85658-1271-4655-8654-18fcb0afea14.png)
+
+This page for client purpose you can asked anything about their services they provides and accomodation.
+
+**Access of page:**
+
+**Web users can:** 1>view and join trips planned by the organisation 2>take up a survey to get recommendations of places to visit
+
+**Admin can:** 1>create new trips 2>delete existing trips
+
+**contact:**
+
+Project Id: 
