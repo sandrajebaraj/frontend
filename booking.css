@@ -1,0 +1,117 @@
+body{
+  background-image: url('r2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+span{
+  
+    margin-left: 20px; 
+    width: 220px;
+    height: 80px;
+    color: rgb(5, 0, 0);
+    font-family: 'Castoro', serif;
+    font-size: 50px;
+    font-weight: bold;
+} 
+ul {
+    
+    float: right;
+    list-style-type: none;
+    margin-right: auto;
+  }
+  li {
+    padding: 14px 16px;
+    display:inline-block;
+    margin-right: 10px;
+  }
+  li a {
+    color: rgb(10, 10, 10);
+    font-size:20px;;
+    font-weight:bolder;
+    text-align: center;
+    text-decoration: none;
+    font-family:'Castoro', serif ;
+  }
+  li a:hover {
+    font-size: 25px;
+  }
+
+  
+#content{
+  background-color: rgba(255, 255, 255, 0.342);
+  background-size: cover;
+ 
+  height: 200px;
+  margin-top: 20px;
+  background-position:left;
+  background-repeat: no-repeat;
+  }
+  h1{
+    text-align:center;
+    font-family:'Castoro', serif ;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 40px;
+    color:rgb(12, 12, 12);
+    margin-top: -20px; 
+    
+  }
+
+label{
+
+  padding: 20px;
+ color: rgb(3, 0, 0);
+  font-size: 22px;
+  font-weight: bold;
+  font-family:'Castoro', serif 
+}
+#move{
+  position: absolute;
+  left: 500px;
+  top: 350px;
+}
+#book a{
+text-decoration: none;
+color: black;
+font-size: 22px;
+font-weight: bold;
+font-family:'Castoro', serif 
+}
+#book{
+  margin-left: 210px;
+  margin-top: 25px;
+  width:125px;
+  height: 40px;
+}
+.change{
+  width:125px;
+  height: 40px;
+  
+  border-radius: 12px solid grey;
+}
+#quote{
+  text-align: center;
+  font-family:'Castoro', serif ;
+  font-size: 40px;
+  padding-top: 30px;
+  color:rgb(3, 3, 3);
+  margin-top: -35px;  
+
+}
+#para{
+  background-color: rgba(255, 255, 255, 0.342);
+  background-size: cover;
+  margin-top: 250px;
+  font-family:'Castoro', serif ;
+  font-size: 30px;
+  font-weight: bold;
+ 
+}
+
+
+
+
+
+
+
+

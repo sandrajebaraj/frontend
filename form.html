@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aboutus</title>
+    <link rel="stylesheet" type="text/css" href="form.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Castoro&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="dd">
+        <ul>
+               <li> <a id="active" href="home.html" >Home</a></li> 
+               <li> <a href="aboutus.html"  target="_blank" >About</a></li>
+                <li>  <a href="booking.html" target="_blank" >Booking</a></li>
+                    <li>  <a href="contactus.html" target="_blank" >Contact</a></li>
+            </ul>  
+            <h1 id='title'>_ Travelkaro</h1>
+        </div>
+
+        <form id="detail" >
+            <h2>Booking Details</h2> <br>
+            <label>First Name </label> <br> <input type="text" placeholder="First Name" required>
+            <br><br>
+        
+            <label>Passenger count</label> <br>
+            <input type="number" placeholder="enter count" required> <br><br>
+
+            <label>From</label><select>
+                <option>CHENNAI</option>
+                <option>KERALA</option>
+                <option>BANGALORE</option>
+                <option>TRICHI</option>
+            </select>
+            <label>To</label><select>
+                <optioni>CHENNAI</option>
+                <option>BANGALORE</option>
+                <option>KERALA</option>
+                <option>TRICHI</option>
+                
+            </select>
+            <br><br><br>
+
+
+            <label>Email</label> <br> <input type="text" id="email" placeholder="Email" required> <br>
+            <span></span>
+            <br>
+
+            
+    
+            <label>Password</label> <br> <input type="password" placeholder="Password" required>
+            <br><br>
+         
+        <div  id="check" >
+   
+ <label>Last Name</label> <br> <input type="text" placeholder="Last Name" required>
+            <br><br>
+         <label>Travel Date</label>
+            <br><input type="date" name="date">
+
+<br><br>    
+<label > Gender</label>
+        
+<br>
+<select>
+    <option>Male</option>
+    <option>Female</option>
+    <option>Others</option>
+    
+</select>
+
+<br><br>
+
+
+
+ <label>Phone Number</label> <br>  <input  type="number" id="number" placeholder="Phone Number" required > <br>
+            <span></span>
+            
+            <br>
+             <label>Confirm Password</label> <br><input type="password" placeholder="Re-enter password" required>
+            <br> <br> 
+            <button id="data" onclick="show()"> <b> SUBMIT </b> </button> 
+        </div>
+      
+</form>
+
+    <script src="form.js"></script>
+
+        </body>
+    </html>

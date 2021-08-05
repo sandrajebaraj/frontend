@@ -1,0 +1,82 @@
+body{
+    background-image: url('r2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #title{
+    
+      margin-left: 20px; 
+      width: 220px;
+      height: 80px;
+      color: rgb(5, 0, 0);
+      font-family: 'Castoro', serif;
+    font-size: 40px;
+      font-weight: bold;
+  } 
+  ul {
+      
+      float: right;
+      list-style-type: none;
+      margin-right: auto;
+    }
+    li {
+      padding: 14px 16px;
+      display:inline-block;
+      margin-right: 10px;
+    }
+    li a {
+      color: rgb(10, 10, 10);
+      font-size:20px;;
+      font-weight:bolder;
+      text-align: center;
+      text-decoration: none;
+      font-family:'Castoro', serif ;
+    }
+    li a:hover {
+      font-size: 25px;
+    }
+
+    #detail{
+        background-color: rgba(255, 255, 255, 0.342);
+         width: 300px;
+        height: 550px; 
+      margin-top: 50px;
+      margin-left: 400px;
+       border-radius: 12px ;
+        padding-top: 5px; ;
+        padding-left: 80px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        font-family: 'Castoro', serif; 
+        
+    }
+    #check{
+      background-color: rgba(255, 255, 255, 0.342);
+       width: 300px;
+      height: 455px; 
+    margin-top: -478px;
+    margin-left: 300px;
+     border-radius: 12px ;
+      padding-top: 100px; ;
+      padding-left: 80px;
+      padding-right: 10px;
+      padding-bottom: 5px;
+      font-family: 'Castoro', serif; 
+      
+  }
+input{
+width: 200px;
+}
+
+input[type=submit]:hover{
+background-color: rgba(0, 128, 128, 0.082);
+border: none;
+}
+label{
+color: rgb(12, 12, 12);
+font-weight: bolder;
+font-size: medium;
+}
+ #data{
+ margin-left: 140px;
+} 
